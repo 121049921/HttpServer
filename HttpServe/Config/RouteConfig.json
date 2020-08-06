@@ -1,0 +1,10 @@
+﻿[
+    {
+        "ProjectName": "随便取",
+        "Dll": "HttpApiMethod.dll"
+    },
+    {
+        "ProjectName": "随便取1",
+        "Dll": "Test.dll"
+    }
+]
